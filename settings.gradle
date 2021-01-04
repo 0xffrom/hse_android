@@ -1,3 +1,4 @@
+include ':hw8'
 include ':hw7'
 include ':hw7'
 include ':hw7'
