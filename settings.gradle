@@ -1,0 +1,3 @@
+include ':hw7'
+include ':hw4'
+rootProject.name = "hw4"
