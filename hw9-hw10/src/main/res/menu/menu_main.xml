@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.goga133.hw9.MainActivity">
+    <item
+        android:id="@+id/action_hide"
+        android:orderInCategory="100"
+        android:checkable="true"
+        android:title="@string/action_hide_text" />
+
+    <item android:id="@+id/action_authorSnackBar"
+        android:orderInCategory="101"
+        android:title="@string/action_author_snackBar"/>
+    <item android:id="@+id/action_authorAlertDialog"
+        android:orderInCategory="101"
+        android:title="@string/action_author_alertDialog"/>
+</menu>

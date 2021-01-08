@@ -1,3 +1,5 @@
+include ':hw9-hw10'
+include ':hw9'
 include ':hw8'
 include ':hw7'
 include ':hw7'
