@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87640121809",
+    "project_id": "plasma-renderer-300708",
+    "storage_bucket": "plasma-renderer-300708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87640121809:android:233e07d360797f94c840f0",
+        "android_client_info": {
+          "package_name": "com.goga133.hw16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87640121809-mejqgims3eg1mes242aggahor7nj880f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30foIKMkVYi5It61ps7OsA3W2UgQgbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87640121809-mejqgims3eg1mes242aggahor7nj880f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
