@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                 arrayList.add(cursor.getString(cursor.getColumnIndex("Name")))
             } while (cursor.moveToNext())
 
-
+            cursor.close()
             this.close()
         }
 
